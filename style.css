@@ -1,0 +1,58 @@
+  .white-box {
+
+    background: white;
+
+    padding: 15px;
+
+    width: 310px;
+
+    height: 380px;
+
+    border-radius: 10px;
+
+    display: flex;
+
+    flex-direction: column;
+
+    justfi-content: center;
+
+    align-item: center;
+  }
+
+.hint {
+  
+  background: black;
+  
+  }
+
+    .btn {
+
+        
+
+        height: 50px;
+
+        width: 150px;
+
+        color: #FFFFFF;
+
+        shape: round;
+
+        outline: none;
+
+        border: none;
+
+        background: green;
+
+        border-radius: 10px;
+        
+        font-size: 20px;
+        
+    }
+    
+    .btn:hover {
+      background: red;
+    }
+    
+    .btn:active {
+      background: red;
+      }
